@@ -91,7 +91,7 @@ user.
 
 Lots.
 
-Some specifics are scattered around the code base (`grep todo src` if you want to get a feel for it) other, more general
+Some specifics are scattered around the code base (`grep -r todo src` if you want to get a feel for it) other, more general
 items are below. These should give you an idea of just how in-development this dev stability project is!
 
  * Database intereaction: I LOVE DOCTRINE. But you may not. Can we make this not rely so heavily on it? abstract out the
